@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エヴリー・セカンド",
+  "base_artist": "ミイナ・オカベ",
+  "createdAt": "2026-02-22T15:17:55.723206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エヴリー・セカンド - ジャパニーズ・ヴァージョン",
+      "artist": "ミイナ・オカベ",
+      "has_synced": false,
+      "path": "select/pl_01_エヴリー・セカンド_-_ジャパニーズ・ヴァージョン_ミイナ・オカベ.txt"
+    }
+  ]
+}
